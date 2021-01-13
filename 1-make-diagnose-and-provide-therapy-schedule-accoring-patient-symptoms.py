@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # 功能：根据患者症状，做出诊断，并统计治疗方案
 # 示例：如果只有发热、寒颤，就诊断为感冒；如果只有鼻塞、咳嗽，就诊断为肺炎; 全有的话，可能性各50%
-# 来源：
+# 来源：https://github.com/atutongxue/snippet/blob/main/1-make-diagnose-and-provide-therapy-schedule-accoring-patient-symptoms.py
 
 # 定义症状
 symptoms = ['fever', 'chill', 'stuffy', 'cough']
